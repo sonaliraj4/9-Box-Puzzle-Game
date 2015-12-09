@@ -1,5 +1,5 @@
 # 9-Box Puzzle Game
-A fun game built using Java, Swing
+A fun game built using Java, AWT, Swing
 
 # About the Project
 The 9-box puzzle is a sliding puzzle which consists of 3x3 grid of numbered squares with one square missing. The squares are jumbled when the puzzle start and the goal of this game is to unjumble the squares by only sliding a square into the empty space.
